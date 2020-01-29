@@ -21,7 +21,10 @@
 - neo4j-community.fireeye | 图形化查看数据库???
 - sqlitebrowser.fireeye | 查看SQLite数据库
 
-## https://chocolatey.org/packages
+## 包source
+- https://chocolatey.org/packages
+- fireeye: https://www.myget.org/F/fireeye/api/Packages
+- flare
 
 ## 增加(非安全类-公开)
 - everything
